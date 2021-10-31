@@ -18,10 +18,10 @@
  *CSS
 
 ## Website
- (insert URL here)
+https://snowrepor.github.io/Code-Refactor/
 
 ## Screen shot
- (Add screen shot here)
+![Horizon Social Solution Services, Inc  Screen shot](https://user-images.githubusercontent.com/92547161/139598817-2c184b83-ddf6-474f-8f52-39b9b5208f96.png)
 
 ## Contribution
  Refactored by Ben Miller
