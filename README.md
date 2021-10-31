@@ -3,25 +3,26 @@
 
 ## Project discription
  Changes to final product are as follows.
- -Added alt="" for accesibility for the images and icons.
- -Replaced website title with "Horiseon Social Solution Services".
- -Added discripteve HTML lines (inline comments).
- -Conslidated CSS styling.
- -Search engin optimazation id added.
- -Divs changed to sections.
- -Changed CSS divs to navs.
- -"Contents" and "benifits-icons" consolidated in HTML and CSS.
+
+ - Added alt="" for accessibility for the images and icons.
+ - Replaced website title with "Horiseon Social Solution Services".
+ - Added discriptive HTML lines (inline comments).
+ - Conslidated CSS styling.
+ - Search engine optimization id added.
+ - Divs changed to sections.
+ - Changed CSS divs to navs.
+ - "Contents" and "benifits-icons" consolidated in HTML and CSS.
 
 
-## Bulit with
+### Bulit with
  *HTML
  *CSS
 
-## Website
+### Website
 https://snowrepor.github.io/Code-Refactor/
 
-## Screen shot
+### Screen shot
 ![Horizon Social Solution Services, Inc  Screen shot](https://user-images.githubusercontent.com/92547161/139598817-2c184b83-ddf6-474f-8f52-39b9b5208f96.png)
 
-## Contribution
+### Contribution
  Refactored by Ben Miller
